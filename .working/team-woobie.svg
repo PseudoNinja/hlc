@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 304.8 406.40001"
+   height="16in"
+   width="12in">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,109.40002)"
+     id="layer1">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g2229"
+       transform="translate(-359.96794,566.7058)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:36.73705673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27552795"
+         x="422.90289"
+         y="-350.75403"
+         id="text2167"><tspan
+           id="tspan2165"
+           x="422.90289"
+           y="-350.75403"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Emilio 20';-inkscape-font-specification:'Emilio 20, ';fill:#000000;fill-opacity:1;stroke-width:0.27552795">TEAM</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:50.73942947px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38054577"
+         x="358.95316"
+         y="-291.26492"
+         id="text2167-3"><tspan
+           id="tspan2165-2"
+           x="358.95316"
+           y="-291.26492"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Emilio 20';-inkscape-font-specification:'Emilio 20, ';fill:#000000;fill-opacity:1;stroke-width:0.38054577">WOOBIE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.15790081px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11368427"
+         x="423.11475"
+         y="-269.70581"
+         id="text2205"><tspan
+           id="tspan2203"
+           x="423.11475"
+           y="-269.70581"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ITC Machine Std';-inkscape-font-specification:'ITC Machine Std';fill:#000000;fill-opacity:1;stroke-width:0.11368427">HABITUAL LINE CROSSER</tspan></text>
+    </g>
+  </g>
+</svg>
